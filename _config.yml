@@ -1,11 +1,11 @@
 # Site settings
-title: Freelancer
-email: your-email@domain.com
-url: https://github.com/jeromelachaud/freelancer-theme
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-keywords: "your keywords, separated by commas"
-skills: "Web Developer - Graphic Artist - User Experience Designer"
-meta_author: LastName FirstName
+title: Rahul Timalsina
+email: rahul.timalsina465@gmail.com
+url: https://www.linkedin.com/in/rahul-timalsina-1506722b8/
+description: "This portfolio showcases my journey as a data scientist, highlighting projects that unravel complex data stories, leveraging the power of machine learning, statistical analysis, and data visualization. Explore my work to see how I transform raw data into actionable insights, driving smarter decisions and unlocking the potential of data to solve real-world problems."
+keywords: "Passion Driven Purpose Fuelled"
+skills: "Data Scientist - Data Analyst - AI engineer"
+meta_author: Timalsina Rahul
 
 # Google webmaster tools
 google_verify:
