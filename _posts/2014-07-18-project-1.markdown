@@ -7,5 +7,5 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
----
+description: This machine learning project involves data cleaning, feature engineering, and model selection. I have looked into different algorithms, including logistic regression, decision trees, and ensemble methods, to recognize the most profound predictors. Along the careful analysis and tuning, I achieved a higher accuracy rate, showcasing real-world data challenges and building effective predictive modules. This project is about data preprocessing, model development, and performance evaluation. 
+--
