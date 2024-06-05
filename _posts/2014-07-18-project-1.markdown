@@ -4,7 +4,8 @@ modal-id: 1
 date: 2014-07-18
 img: cabin.png
 alt: image-alt
-project-date: May 2024
+project-date: April 2014
 client: Start Bootstrap
-category: Machine Learning
-description: In my Kaggle project on Titanic ML prediction, I applied machine learning techniques to predict the survival of passengers aboard the Titanic. The project involved data cleaning, feature engineering, and model selection. I explored various algorithms, including logistic regression, decision trees, and ensemble methods, to identify the most accurate predictors. Through careful analysis and tuning, I achieved a high accuracy rate, demonstrating my ability to handle real-world data challenges and build effective predictive models. This project showcases my skills in data preprocessing, model development, and performance evaluation.
+category: Web Development
+description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+---
