@@ -6,6 +6,6 @@ img: game.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+category: Real Object Detection and Classification
+description: This project demonstrates real-time object detection and classification using state-of-the-art machine learning and deep learning frameworks. The system was developed using PyTorch for model training, ONNX Runtime for model optimization, and DirectML for efficient inference on Windows systems. By leveraging a pre-trained Faster R-CNN model and fine-tuning it on the COCO dataset, the project achieved accurate and efficient object detection. The optimized ONNX model was integrated into a real-time application, capable of processing live camera feeds and video streams with high performance. The project's success showcases advanced techniques in model training, optimization, and deployment, making it an excellent addition to any machine learning 
 ---
