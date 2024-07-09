@@ -5,7 +5,7 @@ date: 2021-09-01
 img: object.png
 alt: image-alt
 project-date: August 2021
-client: Contentiolab
+client: Self Project
 category: Real Object Detection and Classification
 description: This project demonstrates real-time object detection and classification using state-of-the-art machine learning and deep learning frameworks. The system was developed using PyTorch for model training, ONNX Runtime for model optimization, and DirectML for efficient inference on Windows systems. By leveraging a pre-trained Faster R-CNN model and fine-tuning it on the COCO dataset, the project achieved accurate and efficient object detection. The optimized ONNX model was integrated into a real-time application, capable of processing live camera feeds and video streams with high performance. The project's success showcases advanced techniques in model training, optimization, and deployment, making it an excellent addition to any machine learning 
 ---
