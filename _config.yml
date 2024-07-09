@@ -52,11 +52,11 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: 4138 Gleane Street
+  - line: Elmhurst, New York, 11373
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+Creed: 'I commit to uncovering the truth through data with integrity, objectivity, and precision, ensuring my work drives informed and ethical decision-making for the betterment of society.'
 
 # Build settings
 markdown: kramdown
