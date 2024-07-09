@@ -1,11 +1,11 @@
 ---
 layout: default
 modal-id: 3
-date: 2014-07-16
+date: 2022-07-16
 img: deep.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
+project-date: March 2022
+client: Self Project
 category: Deep Dive and Debugging
 description: In this project, I explored the setup, execution, and debugging of data pipelines using Apache Beam, Google DataFlow, and Apache Flink. I provided setup guides for each framework and implemented a word count pipeline in Python for Beam and DataFlow, and in Java for Flink. Detailed instructions for running the pipelines locally, on the cloud, and on a cluster were included. Additionally, I developed comprehensive guides for debugging and performance tuning. This project highlights my ability to effectively set up, run, and debug data pipelines using these powerful data processing frameworks..
 ---
