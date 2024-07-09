@@ -56,7 +56,7 @@ address:
   - line: Elmhurst, New York, 11373
 
 # Credits content
-Creed: 'I commit to uncovering the truth through data with integrity, objectivity, and precision, ensuring my work drives informed and ethical decision-making for the betterment of society.'
+Creed: 'I commit to uncovering the truth through data with integrity, objectivity, and precision'
 
 # Build settings
 markdown: kramdown
