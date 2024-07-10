@@ -2,10 +2,10 @@
 layout: default
 modal-id: 5
 date: 2020-07-14
-img: safe.png
+img: fin.png
 alt: image-alt
 project-date: Feb 2020
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+client: Self Project
+category: Automated Reporting Tool for Financial Analysis
+description: Developed an automated reporting tool utilizing Python for data extraction and processing, with Pandas and NumPy for data manipulation to ensure consistency and accuracy. Implemented SQL queries for data cleaning and transformation, integrating multiple data sources into a cohesive dataset through ETL pipelines. Created interactive JupyterLab notebooks for automated data analysis and report generation, and developed Python scripts for seamless Excel integration. Enhanced data visualization with Matplotlib and Seaborn, and integrated Tableau for interactive dashboards. This project significantly improved efficiency by reducing report generation time and errors, providing real-time insights for better financial decision-making.
 ---
