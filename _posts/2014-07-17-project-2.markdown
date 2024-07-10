@@ -5,7 +5,7 @@ date: 2024-05-17
 img: house.png
 alt: image-alt
 project-date: May 2024
-client: Kaggle
+client: Kaggle(https://www.kaggle.com/code/rahultimalsina465/house-prices-advanced-regression-techniques)
 category: Regression Techniques
-description: In my other Kaggle project on "House Prices - Advanced Regression Techniques," I focused on predicting house sales prices using advanced machine learning methods. I started by performing thorough feature engineering to enhance the dataset, which included handling missing values, encoding categorical variables, and creating new features from existing ones. I then applied Random Forests and gradient-boosting algorithms to build predictive models. By fine-tuning these models and optimizing hyperparameters, I achieved a robust performance with high accuracy in price prediction. This project allowed me to deepen my understanding of regression techniques and feature engineering, ultimately improving my skills in machine learning and data analysis.https://www.kaggle.com/code/rahultimalsina465/house-prices-advanced-regression-techniques
+description: In my other Kaggle project on "House Prices - Advanced Regression Techniques," I focused on predicting house sales prices using advanced machine learning methods. I started by performing thorough feature engineering to enhance the dataset, which included handling missing values, encoding categorical variables, and creating new features from existing ones. I then applied Random Forests and gradient-boosting algorithms to build predictive models. By fine-tuning these models and optimizing hyperparameters, I achieved a robust performance with high accuracy in price prediction. This project allowed me to deepen my understanding of regression techniques and feature engineering, ultimately improving my skills in machine learning and data analysis.
 ---
