@@ -1,11 +1,11 @@
 ---
 layout: default
 modal-id: 6
-date: 2014-07-15
-img: submarine.png
+date: 2022-07-15
+img: mar.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: July 2014
+client: Momentum Solar
+category: Financial Analysis
+description: Developed a comprehensive market analysis and forecasting model to predict market trends and inform strategic business decisions. Utilized Python for data extraction and preprocessing, leveraging libraries such as Pandas and NumPy for data manipulation. Applied machine learning algorithms, including time series forecasting techniques, to analyze historical market data and identify key trends. Created interactive visualizations using Tableau and Matplotlib to present insights and forecasts to stakeholders, enabling data-driven decision-making. This project enhanced the accuracy of market predictions and supported effective strategic planning.
 ---
